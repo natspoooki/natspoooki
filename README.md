@@ -3,7 +3,7 @@
 🌸✨ 𝒘𝒆𝒍𝒄𝒐𝒎𝒆 ✨🌸  
 𝚝𝚘 𝚖𝚢 𝚌𝚞𝚝𝚎 & 𝚌𝚑𝚊𝚘𝚝𝚒𝚌 𝚠𝚘𝚛𝚕𝚍 💻💋
 
-# 💌 𝒑𝒓𝒐𝒋𝒆𝒄𝒕-𝒏𝒂𝒎𝒆
+# 💌 _tomas carvajal solano_
 
 ♡ A soft-coded project built with love, tea, and late-night coding breakdowns ♡  
 🌷 made by someone who listens to Lana while debugging...
@@ -14,7 +14,7 @@
 
 ## 🧁 𝒘𝒉𝒂𝒕 𝒊𝒔 𝒕𝒉𝒊𝒔?
 
-✨ `project-name` is a {brief description} made to:
+✨ `tomas carvajal solano` is a student made to:
 - ✨ solve problems in a cute way
 - 🌸 make life easier (or at least prettier)
 - 💻 give ✨main character energy✨ to your terminal
@@ -36,7 +36,7 @@
 ## 🌸 𝒊𝒏𝒔𝒕𝒂𝒍𝒍
 
 ```bash
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/natspoooki/tomascarvajalsolano.git
 cd project-name
 ✨ follow your dreams (and the install guide) ✨
 ```
@@ -61,7 +61,7 @@ python main.py
 
 ## 🧠 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒎𝒆𝒏𝒕𝒔
 
-- python 3.x or higher 💅  
+- python 3.1000 or higher 💅  
 - a pink laptop (optional but recommended)  
 - emotional stability (optional, who has that anyway?)
 
