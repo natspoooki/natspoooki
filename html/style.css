@@ -1,11 +1,62 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #000000;
-  height: 100vh;
+  background-color: white;
+  font-family: "Segoe UI", sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.heart {
+  width: 100px;
+  height: 90px;
+  background-color: red;
   position: relative;
-  overflow: hidden;
+  transform: scale(1);
+  animation: beat 1s infinite;
+  margin: 0 auto 20px;
+  transform-origin: center;
+  transition: animation-duration 0.2s;
+}
+
+.heart::before,
+.heart::after {
+  content: "";
+  position: absolute;
+  width: 100px;
+  height: 90px;
+  background-color: red;
+  border-radius: 50%;
+}
+
+.heart::before {
+  top: -50px;
+  left: 0;
+}
+
+.heart::after {
+  left: 50px;
+  top: 0;
+}
+
+@keyframes beat {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+}
+
+.slider {
+  width: 300px;
+  margin: 20px auto;
+}
+
+.bpm-text {
+  font-size: 2rem;
+  margin-top: 10px;
+  color: #333;
 }
